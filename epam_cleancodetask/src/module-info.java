@@ -1,0 +1,2 @@
+module epam_cleancodetask {
+}
